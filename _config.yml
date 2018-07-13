@@ -1,12 +1,12 @@
 # Site settings
-title: 
+title: A Work in Progress
 header-img: img/home-bg.png
 email: aqsapervaiz@gmail.com
 copyright_name: aqsapervaiz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  blurbs from the east coast (beast coast)
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: aqsaper
 github_username:  aqsapervaiz
 learn_profile: aqsapervaiz
 email_username: aqsapervaiz@gmail.com
