@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Web Development"
-date:       2018-07-13 13:45:53 +0000
+date:       2018-07-13 09:45:53 -0400
 permalink:  web_development
 ---
 
